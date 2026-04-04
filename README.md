@@ -1,5 +1,7 @@
 # 🧠 ai-cognitive-diagnostic-core
 
+[![Featured on TAAFT](https://media.theresanaiforthat.com/featured-on-taaft.png?width=600)]([https://theresanaiforthat.com/ai/stitchmath/?ref=featured&v=9799020](https://theresanaiforthat.com/ai/cognitive-bias-labs/))
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![AI-Powered](https://img.shields.io/badge/AI--Powered-LLM--Diagnostic-blueviolet.svg)]()
