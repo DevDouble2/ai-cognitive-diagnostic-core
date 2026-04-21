@@ -10,9 +10,15 @@ A high-precision diagnostic engine leveraging **LLM-based behavioral modeling** 
 
 ---
 
-## 🚀 Live Demo & Diagnostic Platform
+## 🚀 Live Demo & Assessment Hub
 Experience the full AI-driven assessment engine live:  
 👉 **[https://cognitivebiaslabs.com/](https://cognitivebiaslabs.com/)**
+
+---
+
+## 📖 Documentation & Strategy Insights
+For a deep dive into the psychological frameworks and neural pattern identification used in this engine, refer to our latest research briefing:  
+📑 **[AI-Powered Psychology: Identifying Your Cognitive Blind Spots](https://telegra.ph/AI-Powered-Psychology-Identifying-Your-Cognitive-Blind-Spots-04-09)**
 
 ---
 
@@ -26,7 +32,7 @@ This repository serves as the core logic foundation for the **Cognitive Bias Lab
 ### Key Features
 - **Adaptive Scoring Algorithms**: Real-time calibration based on user decision-making speed and consistency.
 - **AI-Driven Insight Generation**: Automating the creation of personalized cognitive reports.
-- **Lightweight Logic**: Optimized for seamless integration with static web architectures (Cloudflare Pages/GitHub Pages).
+- **Lightweight Logic**: Optimized for seamless integration with modern web architectures.
 
 ---
 
@@ -45,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✉️ Contact & Support
 Developed by **DevDouble2**. For business inquiries or API access to the diagnostic engine, please visit our official site:  
-**[Cognitive Bias Labs](https://cognitivebiaslabs.com/)**
+**[Cognitive Bias Labs Official Site](https://cognitivebiaslabs.com/)**
